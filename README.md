@@ -111,8 +111,3 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS)
 | `regenerate_magic_link`      | Yes  | Regenerate magic link for a deal   |
 | `regenerate_all_magic_links` | Yes  | Regenerate all magic links         |
 | `create_magic_link`          | Yes  | Create magic link for owner claim  |
-
-## Publish to npm
-
-1. Log in: `npm login`
-2. Publish: `npm publish --access public`
